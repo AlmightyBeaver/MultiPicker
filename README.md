@@ -3,7 +3,7 @@
 Picker for up to three values which conform to LosslessStringConvertible (e.g. String, Int, Double)
 
 
-<img src="/screenshots/screen1.jpg" width="293" height="633">
+<img src="https://github.com/AlmightyBeaver/MultiPicker/blob/main/example1_small.png" width="293" height="633">
 
 
 ### Example Code
