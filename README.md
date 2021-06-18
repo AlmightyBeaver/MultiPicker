@@ -3,7 +3,7 @@
 Picker for up to three values which conform to LosslessStringConvertible (e.g. String, Int, Double)
 
 
-![Screenshot](/example1_small.png =293x633)
+<img src="/screenshots/screen1.jpg" width="293" height="633">
 
 
 ### Example Code
