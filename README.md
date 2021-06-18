@@ -3,6 +3,9 @@
 Picker for up to three values which conform to LosslessStringConvertible (e.g. String, Int, Double)
 
 
+![Screenshot](/example1_small.png)
+
+
 ### Example Code
 ```
  struct MultiPickerExample: View {
