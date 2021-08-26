@@ -50,3 +50,7 @@ SwiftUI Picker for up to three values which conform to LosslessStringConvertible
      }
  }
 ```
+
+
+Here is an example of use:
+[https://github.com/AlmightyBeaver/HourPicker](https://github.com/AlmightyBeaver/HourPicker)
